@@ -1,0 +1,3 @@
+"markguinn/silverstripe-email-helpers": "dev-master"
+
+composer require markguinn/silverstripe-email-helpers
