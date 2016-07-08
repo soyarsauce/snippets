@@ -1,0 +1,1 @@
+ssh ubuntu@ss.jira "cat /foo/bar" | pbcopy
