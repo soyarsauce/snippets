@@ -1,0 +1,3 @@
+SELECT CONCAT('DROP DATABASE `', SCHEMA_NAME, '`;')
+FROM `information_schema`.`SCHEMATA`
+WHERE SCHEMA_NAME LIKE 'ss_tmpdb%';
