@@ -1,0 +1,3 @@
+# Force redirects to new domain
+RewriteEngine on
+RewriteRule ^(.*)$ https://www.doublemonk.com/$1 [R=301,L]
