@@ -1,0 +1,1 @@
+ls -lAr [problematic dir]
